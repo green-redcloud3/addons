@@ -10,7 +10,7 @@ images:
     newTag: "1.6.0"
   - name: quay.io/k8scsi/csi-attacher
     newName: raspbernetes/csi-external-attacher
-    newTag: "2.2.0"
+    newTag: "3.2.1"
   - name: quay.io/k8scsi/livenessprobe
     newName: k8s.gcr.io/sig-storage/livenessprobe
     newTag: "v2.1.0"
