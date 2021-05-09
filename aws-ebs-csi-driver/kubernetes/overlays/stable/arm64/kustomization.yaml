@@ -16,4 +16,4 @@ images:
     newTag: "v2.1.0"
   - name: quay.io/k8scsi/csi-node-driver-registrar
     newName: raspbernetes/csi-node-driver-registrar
-    newTag: "1.3.0"
+    newTag: "2.2.0"
