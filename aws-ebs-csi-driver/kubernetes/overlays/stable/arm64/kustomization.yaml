@@ -7,7 +7,7 @@ images:
     newTag: v0.8.1
   - name: quay.io/k8scsi/csi-provisioner
     newName: raspbernetes/csi-external-provisioner
-    newTag: "1.6.0"
+    newTag: "2.2.1"
   - name: quay.io/k8scsi/csi-attacher
     newName: raspbernetes/csi-external-attacher
     newTag: "2.2.0"
