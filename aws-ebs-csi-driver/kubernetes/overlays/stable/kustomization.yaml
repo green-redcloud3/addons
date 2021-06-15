@@ -12,4 +12,4 @@ images:
   - name: quay.io/k8scsi/livenessprobe
     newTag: v2.1.0
   - name: quay.io/k8scsi/csi-node-driver-registrar
-    newTag: v1.3.0
+    newTag: v2.1.0
