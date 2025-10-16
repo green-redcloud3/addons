@@ -12,7 +12,7 @@ images:
     newName: raspbernetes/csi-external-attacher
     newTag: "2.2.0"
   - name: quay.io/k8scsi/livenessprobe
-    newName: k8s.gcr.io/sig-storage/livenessprobe
+    newName: registry.k8s.io/sig-storage/livenessprobe
     newTag: "v2.1.0"
   - name: quay.io/k8scsi/csi-node-driver-registrar
     newName: raspbernetes/csi-node-driver-registrar
