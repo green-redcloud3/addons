@@ -3,7 +3,7 @@ kind: Kustomization
 bases:
   - ../../../base
 images:
-  - name: k8s.gcr.io/provider-aws/aws-ebs-csi-driver
+  - name: registry.k8s.io/provider-aws/aws-ebs-csi-driver
     newTag: v0.8.1
   - name: quay.io/k8scsi/csi-provisioner
     newName: raspbernetes/csi-external-provisioner
